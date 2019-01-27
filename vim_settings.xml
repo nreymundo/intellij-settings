@@ -1,0 +1,29 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1548532287571">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.groovy" timestamp="1548533669716">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1548532287582">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/repos/hybrid-rest-tests/src/test/groovy/com/mulesoft/hybrid/automation/functional/servers/AgentVersionChangeMule4.groovy" timestamp="1548536100811" />
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>

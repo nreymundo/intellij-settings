@@ -1,0 +1,24 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="runtime-provider" uuid="ea7e137a-8ae7-4ed8-bded-6b85ea66bb97">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://23.21.103.40:3306</jdbc-url>
+      <driver-properties>
+        <property name="autoReconnect" value="true" />
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+        <property name="characterEncoding" value="utf8" />
+        <property name="characterSetResults" value="utf8" />
+        <property name="yearIsDateType" value="false" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="arm_automation@nico-arm-automation-test.cvkz5grg0sov.us-east-1.rds.amazonaws.com" uuid="fbe41958-d23d-49d7-ae8c-72a0e9fd3f58">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://nico-arm-automation-test.cvkz5grg0sov.us-east-1.rds.amazonaws.com:5432/arm_automation</jdbc-url>
+    </data-source>
+  </component>
+</application>

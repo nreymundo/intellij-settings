@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1548532287571">
@@ -12,15 +12,35 @@
       <file name="/fragment.java" timestamp="1548532287582">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/repos/hybrid-rest-tests/src/test/groovy/com/mulesoft/hybrid/automation/functional/servers/AgentVersionChangeMule4.groovy" timestamp="1548536100811" />
+      <file name="$USER_HOME$/opt/repos/hybrid-rest-tests/src/test/groovy/com/mulesoft/hybrid/automation/functional/servers/AgentVersionChangeMule4.groovy" timestamp="1548610353070">
+        <mark key="[" line="56" column="55" />
+        <mark key="]" line="56" column="58" />
+        <mark key="." line="56" column="58" />
+        <mark key="^" line="56" column="58" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBORVdfVVBHUkFERV9QUk9DRVNTX0FHRU5UID0gQWdlbnRWZXJzaW9uU2VsZWN0b3IuZ2V0RmluYWxPclNuYXBzaG90KCIyLjEuMSIpCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>V</text>
+      </register>
+      <register name="-" type="4">
+        <text>V</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="false" />

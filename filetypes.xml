@@ -4,7 +4,6 @@
       <mapping pattern="Jenkinsfile*" type="Groovy" />
       <mapping pattern="verbose" type="JSON" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
-      <mapping ext="feature" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="moduleprovider" type="PLAIN_TEXT" />
     </extensionMap>
